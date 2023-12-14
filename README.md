@@ -17,3 +17,7 @@ _test_ with underscore
 `tets` single backtick
 
 ++test++ double plus sign
+
+--test-- double minus
+
+<u>test</u>
